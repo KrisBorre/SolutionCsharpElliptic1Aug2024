@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryDifferentialEquations6apr2024\LibraryDifferentialEquations6apr2024.csproj" />
+    <ProjectReference Include="..\LibraryParameterManager6apr2024\LibraryParameterManager6apr2024.csproj" />
+  </ItemGroup>
+
+</Project>
